@@ -1,5 +1,5 @@
 # Autocomplete
- 3rd Project for the 'Programming Language I' class, made in April 2021
+Terceiro projeto para a disciplina 'Linguagem de Programação I', desenvolvido em Abril de 2021. Universidade Federal do Rio Grande do Norte
 
 Linguagem de Programação I - T01
 Projeto de Programação #4
