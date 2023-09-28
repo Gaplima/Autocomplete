@@ -9,7 +9,7 @@ Professor: Selan Rodrigues dos Santos
 
 Comando de compilação: gpp main.cpp -o main
 Comando de execução: ./main data/wiktionary.txt
-Link do git: 
+Link do git: https://github.com/Gaplima/Autocomplete
 
 Autocomplete
 
